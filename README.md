@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou Eduardo Pinheiro 👋</h1>
+  <h1>Olá! Eu sou Eduardo Pinheiro </h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Python+J%C3%BAnior;Construindo+pipelines+de+dados+e+IA;Palmas+-+TO" alt="Typing SVG" />
 </div>
